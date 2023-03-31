@@ -147,8 +147,15 @@ img {
         flex-wrap: wrap;
     }
 
-    .col{
+    .lessons .col{
         width: 100%;
+    }
+
+    .steps .col{
+        width: 100%;
+    }
+    
+    .col{
         padding-bottom: 50px;
     }
 
@@ -161,7 +168,7 @@ img {
     }
 
     .col-right ul {
-        padding-top: 100%;
+        padding-top: 50px;
     }
 
 }
